@@ -16,6 +16,10 @@ build/*
 *.ipdb
 *.opensdf
 *.sdf
+*.vcxproj
+*.user
+Makefile
+Binaries
 
 # Compiled Dynamic libraries
 *.so
